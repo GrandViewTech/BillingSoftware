@@ -1,5 +1,5 @@
 # BillingSoftware
-Billing Software for <b>Vinayaka Textile Agency<b/>
+Billing Software for <b>Vinayakka Textile Agency<b/>
 
 # Feature
 1. Vendor Management <br />
